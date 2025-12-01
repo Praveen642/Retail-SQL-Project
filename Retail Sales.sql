@@ -1,5 +1,5 @@
--- SQL Retail Sales Analysis - P1
-CREATE DATABASE sql_project_p2;
+-- SQL Retail Sales
+CREATE DATABASE retail_sales;
 
 
 -- Create TABLE
@@ -224,4 +224,3 @@ FROM hourly_sale
 GROUP BY shift
 
 -- End of project
-
